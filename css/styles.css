@@ -10,6 +10,12 @@ h2 {
   font-family: "Consolas", "Courier New", monospace;
   margin-bottom: 0.3em;
 }
+h3 {
+  text-align: center;
+  color: black;
+  font-family: "Consolas", "Courier New", monospace;
+  margin-bottom: 0.3em;
+}
 div {
   text-align: center;
 }

@@ -1,39 +1,18 @@
-nav ul {
-  position: fixed;
-  text-align: right;
-  width: 100%;
-  background-color: #fff;
-  font-family: "comfortaa", sans-serif;
-  font-size: 1.2em;
-}
-nav ul li {
-  display: inline-block;
-  margin: 30px;
-}
-nav ul li a {
-  color: #000;
-  text-decoration: none;
-}
-nav ul li a:hover {
-  color: #ababab;
-}
-body {
-  background-color: beige;
-  text-shadow: darkgray 0px 1px 0px;
-  font-family: "Consolas", "Courier New", monospace;
-  -webkit-font-smoothing: antialiased;
-}
 h1 {
   text-align: center;
   color: black;
   font-family: "Consolas", "Courier New", monospace;
   margin-bottom: 0.3em;
-  text-decoration: underline;
 }
 h2 {
   text-align: center;
   color: black;
   font-family: "Consolas", "Courier New", monospace;
   margin-bottom: 0.3em;
-  text-decoration: underline;
+}
+a {
+  text-align: center;
+  color: darkgray;
+  font-family: "Consolas", "Courier New", monospace;
+  margin-bottom: 0.2em;
 }

@@ -10,7 +10,10 @@ h2 {
   font-family: "Consolas", "Courier New", monospace;
   margin-bottom: 0.3em;
 }
-a {
+div {
+  text-align: center;
+}
+div a {
   text-align: center;
   color: darkgray;
   font-family: "Consolas", "Courier New", monospace;

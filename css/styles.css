@@ -21,6 +21,7 @@ div {
 }
 div a {
   text-align: center;
+  margin-right: 0.1em;
   color: darkgray;
   font-family: "Consolas", "Courier New", monospace;
   margin-bottom: 0.2em;

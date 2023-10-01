@@ -16,6 +16,7 @@ header {
   background-color: #34495e;
   color: #ffffff;
   padding: 20px 0;
+  border-bottom: 1px solid #ffffff;
 }
 
 header h1 {
@@ -82,4 +83,5 @@ footer {
   color: #ffffff;
   text-align: center;
   padding: 10px 0;
+  border-top: 1px solid #ffffff;
 }

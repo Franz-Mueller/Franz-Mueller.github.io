@@ -5,16 +5,16 @@
   box-sizing: border-box;
 }
 h2 {
-  color: #ffffff;
+  color: #fffee6;
 }
 h3 {
-  color: #ffffff;
+  color: #fffee6;
 }
 p {
-  color: #ffffff;
+  color: #fffee6;
 }
 a {
-  color: #ffffff;
+  color: #fffee6;
 }
 
 /* Basic styling for the body */
@@ -26,9 +26,9 @@ body {
 /* Header styles */
 header {
   background-color: #34495e;
-  color: #ffffff;
+  color: #fffee6;
   padding: 20px 0;
-  border-bottom: 1px solid #ffffff;
+  border-bottom: 1px solid #fffee6;
 }
 
 header h1 {
@@ -46,7 +46,7 @@ nav ul li {
 
 nav ul li a {
   text-decoration: none;
-  color: #ffffff;
+  color: #fffee6;
   font-weight: bold;
 }
 
@@ -67,7 +67,7 @@ nav ul li a {
   background-color: #34495e93;
   padding: 20px;
   border-radius: 5px;
-  border: 1px solid #ffffff;
+  border: 1px solid #fffee6;
   /*box-shadow: 0 0 10px rgba(255, 255, 255, 0.9);*/
   margin: 20px;
 }
@@ -84,7 +84,7 @@ nav ul li a {
   display: inline-block;
   margin-top: 10px;
   padding: 10px 20px;
-  background-color: #ffffff #34495e;
+  background-color: #fffee6 #34495e;
   color: #34495e;
   text-decoration: none;
   border-radius: 5px;
@@ -93,8 +93,8 @@ nav ul li a {
 /* Footer styles */
 footer {
   background-color: #34495e;
-  color: #ffffff;
+  color: #fffee6;
   text-align: center;
   padding: 10px 0;
-  border-top: 1px solid #ffffff;
+  border-top: 1px solid #fffee6;
 }

@@ -4,6 +4,15 @@
   padding: 0;
   box-sizing: border-box;
 }
+h2 {
+  color: #ffffff;
+}
+p {
+  color: #ffffff;
+}
+a {
+  color: #ffffff;
+}
 
 /* Basic styling for the body */
 body {

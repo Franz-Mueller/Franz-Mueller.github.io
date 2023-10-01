@@ -69,7 +69,7 @@ nav ul li a {
   background-color: #34495e93;
   padding: 20px;
   border-radius: 5px;
-  border: 1px solid #fffee6;
+  border: 1px dashed #fffee6;
   /*box-shadow: 0 0 10px rgba(255, 255, 255, 0.9);*/
   margin: 20px;
 }

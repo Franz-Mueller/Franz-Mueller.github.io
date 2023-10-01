@@ -12,17 +12,17 @@ h3 {
 }
 p {
   color: #fffee6;
-  font-size: 12px;
+  font-size: 16px;
 }
 a {
   color: #fffee6;
-  font-size: 12px;
+  font-size: 16px;
 }
 
 /* Basic styling for the body */
 body {
   font-family: "Times New Roman", Times, serif;
-  background-color: #ffffff;
+  background-color: #34495e;
 }
 
 /* Header styles */
@@ -31,7 +31,6 @@ header {
   color: #fffee6;
   padding: 20px 0;
   border-bottom: 1px solid #fffee6;
-  position: fixed;
 }
 
 header h1 {

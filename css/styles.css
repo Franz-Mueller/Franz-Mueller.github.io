@@ -12,11 +12,11 @@ h3 {
 }
 p {
   color: #fffee6;
-  font-size: 17px;
+  font-size: 17.5px;
 }
 a {
   color: #fffee6;
-  font-size: 17px;
+  font-size: 17.5px;
 }
 
 /* Basic styling for the body */
@@ -79,7 +79,7 @@ nav ul li a {
 }
 
 .project-card p {
-  font-size: 17px;
+  font-size: 17.5px;
 }
 
 .project-card a {

@@ -52,6 +52,14 @@ nav ul li a {
   font-weight: bold;
 }
 
+iframe{
+  background-color: #34495e93;
+  padding: 20px;
+  border-radius: 5px;
+  border: 1px dashed #fffee6;
+  margin: 20px;
+}
+
 .section {
   padding: 40px 0;
   text-align: center;

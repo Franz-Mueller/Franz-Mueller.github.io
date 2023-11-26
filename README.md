@@ -13,6 +13,6 @@ At this point, the website is fairly straightforward, comprising an index.html f
 
 As the content expanded, I began implementing development branches.
 
-# Testing
+### Testing
 
 For testing I utilize a Docker container built on the nginx image for quicker visibility of changes compared to waiting for GitHub Pages to reflect them.

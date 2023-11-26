@@ -1,1 +1,0 @@
-To create this Website I used Chat GPT, which did the basics for me. After that I startet figuring things out myself. To implement new content I like to use a docker Image called nginx. This allows me to test my changes way faster.

@@ -2,6 +2,10 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+h1 {
+  color: #ffffff;
+  
+}
 }
 h2 {
   color: #fffee6;
@@ -34,9 +38,7 @@ header {
   border-bottom: 1px solid #fffee6;
   position: fixed;
   width: 100%;
-}
-#header header h1 {
-  font-size: 24px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 nav ul {
@@ -64,33 +66,6 @@ nav ul li a {
   margin: 0 auto;
   padding: 0 20px;
 }
-
-.project-card {
-  background-color: #34495e93;
-  padding: 20px;
-  border-radius: 5px;
-  border: 1px dashed #fffee6;
-  margin: 20px;
-}
-
-.project-card h3 {
-  font-size: 20px;
-}
-
-.project-card p {
-  font-size: 17.5px;
-}
-
-.project-card a {
-  display: inline-block;
-  margin-top: 10px;
-  padding: 10px 20px;
-  background-color: #fffee6;
-  color: #34495e;
-  text-decoration: none;
-  border-radius: 5px;
-}
-
 footer {
   background-color: #34495e;
   color: #fffee6;

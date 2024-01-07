@@ -2,10 +2,9 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-h1 {
-  color: #ffffff;
-  
 }
+h1 {
+  color: #fffee6; 
 }
 h2 {
   color: #fffee6;
@@ -38,7 +37,7 @@ header {
   border-bottom: 1px solid #fffee6;
   position: fixed;
   width: 100%;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Times New Roman", Times, serif;
 }
 
 nav ul {

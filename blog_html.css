@@ -43,7 +43,7 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:21px;  }
 .textstyle6 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#656565; font-weight:bold;  white-space: nowrap; }
 .menustyle3 { position:absolute; width:55px; height:38px; left:76px;  }
-#container_6f2de838 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:158px; background-color:#FFFFFF; background-image: url(rc_images/banner_1200x928.png); background-position:center left; background-size:cover;  }
+#container_6f2de838 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:158px; background-color:#FFFFFF; background-image: url(images/banner_1200x928.png); background-position:center left; background-size:cover;  }
 #container_6f2de838_padding { margin: 10px; display: block;  }
 .textstyle7 { font-size:26pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.196078);  }
 .textstyle8 { font-size:26pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFFFF; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.196078);  }
@@ -52,7 +52,7 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .textstyle9 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#9E9E9E;  }
 #container_99b9ef4 { vertical-align: top; position:relative; display: inline-block; width:80%; min-height:237px; background:none;  }
 #container_99b9ef4_padding { margin: 10px; display: block;  }
-#container_3479b30e { vertical-align: top; border-radius: 15px; position:relative; display: inline-block; margin:10px; width:30%; min-height:200px; background-color:#FFFFFF; background-image: url(rc_images/blog_1__1200x798.png); background-position:center left; background-size:cover;  }
+#container_3479b30e { vertical-align: top; border-radius: 15px; position:relative; display: inline-block; margin:10px; width:30%; min-height:200px; background-color:#FFFFFF; background-image: url(images/blog_1__1200x798.png); background-position:center left; background-size:cover;  }
 #container_3479b30e_padding { margin: 10px; display: block;  }
 .textstyle10 { font-size:18pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; font-weight:bold;  }
 .textstyle11 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#374459; font-weight:bold;  }

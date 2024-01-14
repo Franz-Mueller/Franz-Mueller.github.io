@@ -44,7 +44,7 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:21px;  }
 .textstyle6 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#656565; font-weight:bold;  white-space: nowrap; }
 .menustyle3 { position:absolute; width:55px; height:38px; left:76px;  }
-#container_69fcba52 { vertical-align: bottom; position:relative; display: inline-block; width:100%; min-height:384px; background-color:#FFFFFF; background-image: url(../rc_images/blog_1_banner_.png); background-position:bottom left; background-size:cover;  }
+#container_69fcba52 { vertical-align: bottom; position:relative; display: inline-block; width:100%; min-height:384px; background-color:#FFFFFF; background-image: url(../images/blog_1_banner_.png); background-position:bottom left; background-size:cover;  }
 #container_69fcba52_padding { margin: 10px; display: block;  }
 .textstyle7 { font-size:40pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; font-weight:bold;  }
 .textstyle8 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#374459; font-weight:bold;  }

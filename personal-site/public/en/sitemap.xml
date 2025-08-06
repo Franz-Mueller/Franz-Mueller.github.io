@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.franzhenrymueller.de/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.franzhenrymueller.de/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.franzhenrymueller.de/about/"
+                />
+  </url><url>
+    <loc>https://www.franzhenrymueller.de/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.franzhenrymueller.de/de/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.franzhenrymueller.de/contact/"
+                />
+  </url><url>
+    <loc>https://www.franzhenrymueller.de/posts/growlyst/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.franzhenrymueller.de/de/posts/growlyst/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.franzhenrymueller.de/posts/growlyst/"
+                />
+  </url><url>
+    <loc>https://www.franzhenrymueller.de/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.franzhenrymueller.de/de/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.franzhenrymueller.de/projects/"
+                />
+  </url><url>
     <loc>https://www.franzhenrymueller.de/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,6 +84,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.franzhenrymueller.de/"
+                />
+  </url><url>
+    <loc>https://www.franzhenrymueller.de/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.franzhenrymueller.de/de/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.franzhenrymueller.de/posts/"
                 />
   </url><url>
     <loc>https://www.franzhenrymueller.de/series/</loc>

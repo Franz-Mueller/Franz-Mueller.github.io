@@ -151,7 +151,7 @@ url = "https://github.com/franz-mueller/"
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
 weight = 2
-url = "linkedin.com/in/franz-müller-084738240"
+url = "https://linkedin.com/in/franz-müller-084738240"
 
 [languages.en]
 languageName = ":uk:"

@@ -2,16 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Franz Müller</title>
-    <link>https://www.franzhenrymueller.de/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Franz Müller</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://www.franzhenrymueller.de/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Aug 2025 23:08:56 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GrowLyst Tech Stack</title>
+      <link>http://localhost:1313/posts/growlyst-tech-stack/</link>
+      <pubDate>Wed, 06 Aug 2025 23:08:56 +0200</pubDate>
+      <guid>http://localhost:1313/posts/growlyst-tech-stack/</guid>
+      <description></description>
+    </item>
     <item>
       <title></title>
-      <link>https://www.franzhenrymueller.de/posts/growlyst/</link>
+      <link>http://localhost:1313/posts/growlyst/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.franzhenrymueller.de/posts/growlyst/</guid>
+      <guid>http://localhost:1313/posts/growlyst/</guid>
       <description>&lt;h1 id=&#34;growlyst&#34;&gt;&#xA;  GrowLyst&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#growlyst&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;what-is-growlyst&#34;&gt;&#xA;  What is GrowLyst?&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#what-is-growlyst&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
     </item>
   </channel>

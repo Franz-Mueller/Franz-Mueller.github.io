@@ -2,38 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Franz Müller</title>
-    <link>https://www.franzhenrymueller.de/de/</link>
+    <link>http://localhost:1313/de/</link>
     <description>Recent content on Franz Müller</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <atom:link href="https://www.franzhenrymueller.de/de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Aug 2025 23:08:56 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/de/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://www.franzhenrymueller.de/de/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.franzhenrymueller.de/de/about/</guid>
+      <title>GrowLyst Tech Stack</title>
+      <link>http://localhost:1313/de/posts/growlyst-tech-stack/</link>
+      <pubDate>Wed, 06 Aug 2025 23:08:56 +0200</pubDate>
+      <guid>http://localhost:1313/de/posts/growlyst-tech-stack/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://www.franzhenrymueller.de/de/contact/</link>
+      <link>http://localhost:1313/de/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.franzhenrymueller.de/de/contact/</guid>
+      <guid>http://localhost:1313/de/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/de/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/contact/</guid>
       <description>&lt;h1 id=&#34;kontakt&#34;&gt;&#xA;  Kontakt&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#kontakt&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link zu Überschrift&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link zu Überschrift&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Sie können mich via &lt;a href=&#34;mailto:franzmueller2003@outlook.de&#34; &gt;Mail&lt;/a&gt; oder &lt;a href=&#34;https://linkedin.com/in/franz-m%c3%bcller-084738240&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linkedin&lt;/a&gt; erreichen.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://www.franzhenrymueller.de/de/posts/growlyst/</link>
+      <link>http://localhost:1313/de/posts/growlyst/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.franzhenrymueller.de/de/posts/growlyst/</guid>
+      <guid>http://localhost:1313/de/posts/growlyst/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://www.franzhenrymueller.de/de/projects/</link>
+      <link>http://localhost:1313/de/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.franzhenrymueller.de/de/projects/</guid>
-      <description></description>
+      <guid>http://localhost:1313/de/projects/</guid>
+      <description>&lt;h1 id=&#34;projekte&#34;&gt;&#xA;  Projekte&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#projekte&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link zu Überschrift&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link zu Überschrift&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;growlyst-in-arbeit&#34;&gt;&#xA;  GrowLyst (in Arbeit)&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#growlyst-in-arbeit&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link zu Überschrift&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link zu Überschrift&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;GrowLyst ist eine Plattform, die es Nutzerinnen ermöglicht, ihre Pflanzenzucht zu verwalten. Sie können alles vom Samen bis zur Lagerung und dem Probieren der Ernte nachverfolgen. Zusätzlich gibt es eine Social-Media-Komponente, mit der Nutzerinnen ihren Zuchtfortschritt mit anderen auf der Website teilen können. Ziel ist es, Enthusiasten anzusprechen, die ihre Ergebnisse gerne stilvoll präsentieren.&#xA;Die Premium-Version bietet Zugang zu tiefgehenden Einblicken in die eigenen Zuchten durch Statistiken, Grafiken und Formeln, die Empfehlungen geben und Vergleiche zwischen verschiedenen Pflanzen ermöglichen – auch mit denen anderer Nutzer*innen.&#xA;Weitere Informationen zu den von mir verwendeten Techniken und meinen Erfahrungen mit GrowLyst findest du in meinen &lt;a href=&#34;http://localhost:1313/de/categories/growlyst/&#34; &gt;Blogbeiträgen&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

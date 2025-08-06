@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Franz Müller</title>
-    <link>https://www.franzhenrymueller.de/de/authors/</link>
+    <link>http://localhost:1313/de/authors/</link>
     <description>Recent content in Authors on Franz Müller</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <atom:link href="https://www.franzhenrymueller.de/de/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Aug 2025 23:08:56 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/de/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Franz Müller</title>
+      <link>http://localhost:1313/de/authors/franz-m%C3%BCller/</link>
+      <pubDate>Wed, 06 Aug 2025 23:08:56 +0200</pubDate>
+      <guid>http://localhost:1313/de/authors/franz-m%C3%BCller/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

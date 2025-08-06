@@ -2,38 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Franz Müller</title>
-    <link>https://www.franzhenrymueller.de/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Franz Müller</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://www.franzhenrymueller.de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Aug 2025 23:08:56 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://www.franzhenrymueller.de/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.franzhenrymueller.de/about/</guid>
+      <title>GrowLyst Tech Stack</title>
+      <link>http://localhost:1313/posts/growlyst-tech-stack/</link>
+      <pubDate>Wed, 06 Aug 2025 23:08:56 +0200</pubDate>
+      <guid>http://localhost:1313/posts/growlyst-tech-stack/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://www.franzhenrymueller.de/contact/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.franzhenrymueller.de/contact/</guid>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;h1 id=&#34;contact&#34;&gt;&#xA;  Contact&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#contact&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Feel free to reach out to me via &lt;a href=&#34;mailto:franzmueller2003@outlook.de&#34; &gt;Mail&lt;/a&gt; or &lt;a href=&#34;https://linkedin.com/in/franz-m%c3%bcller-084738240&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linkedin&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://www.franzhenrymueller.de/posts/growlyst/</link>
+      <link>http://localhost:1313/posts/growlyst/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.franzhenrymueller.de/posts/growlyst/</guid>
+      <guid>http://localhost:1313/posts/growlyst/</guid>
       <description>&lt;h1 id=&#34;growlyst&#34;&gt;&#xA;  GrowLyst&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#growlyst&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;what-is-growlyst&#34;&gt;&#xA;  What is GrowLyst?&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#what-is-growlyst&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://www.franzhenrymueller.de/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.franzhenrymueller.de/projects/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h1 id=&#34;projects&#34;&gt;&#xA;  Projects&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#projects&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;growlyst-work-in-progress&#34;&gt;&#xA;  GrowLyst (work in progress)&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#growlyst-work-in-progress&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;GrowLyst is a platform that allows users to manage their plant grows. They can track everything from seed to storage and trying the produce.&#xA;There also is an additional social media component that allows users to share their grow progress with others on the website. The goal is to&#xA;address enthusiasts who like to show their results and display them in style. The premium tier allows users to gain deep insights into their&#xA;grows via statistics, graphs and formulas that make recommendations and allow comparrision between different plants, even from other users.&#xA;Please refer to my &lt;a href=&#34;http://localhost:1313/categories/growlyst/&#34; &gt;blog posts&lt;/a&gt; for further information about techniques I used and my experiences with GrowLyst.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

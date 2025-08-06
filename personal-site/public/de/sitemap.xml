@@ -2,124 +2,221 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.franzhenrymueller.de/de/about/</loc>
+    <loc>http://localhost:1313/de/authors/</loc>
+    <lastmod>2025-08-06T23:08:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.franzhenrymueller.de/about/"
+                href="http://localhost:1313/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.franzhenrymueller.de/de/about/"
+                href="http://localhost:1313/de/authors/"
                 />
   </url><url>
-    <loc>https://www.franzhenrymueller.de/de/contact/</loc>
+    <loc>http://localhost:1313/de/categories/</loc>
+    <lastmod>2025-08-06T23:08:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.franzhenrymueller.de/contact/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.franzhenrymueller.de/de/contact/"
+                href="http://localhost:1313/de/categories/"
                 />
   </url><url>
-    <loc>https://www.franzhenrymueller.de/de/posts/growlyst/</loc>
+    <loc>http://localhost:1313/de/tags/development/</loc>
+    <lastmod>2025-08-06T23:08:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.franzhenrymueller.de/posts/growlyst/"
+                href="http://localhost:1313/tags/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.franzhenrymueller.de/de/posts/growlyst/"
+                href="http://localhost:1313/de/tags/development/"
                 />
   </url><url>
-    <loc>https://www.franzhenrymueller.de/de/projects/</loc>
+    <loc>http://localhost:1313/de/</loc>
+    <lastmod>2025-08-06T23:08:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.franzhenrymueller.de/projects/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.franzhenrymueller.de/de/projects/"
+                href="http://localhost:1313/de/"
                 />
   </url><url>
-    <loc>https://www.franzhenrymueller.de/de/authors/</loc>
+    <loc>http://localhost:1313/de/authors/franz-m%C3%BCller/</loc>
+    <lastmod>2025-08-06T23:08:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.franzhenrymueller.de/authors/"
+                href="http://localhost:1313/authors/franz-m%C3%BCller/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.franzhenrymueller.de/de/authors/"
+                href="http://localhost:1313/de/authors/franz-m%C3%BCller/"
                 />
   </url><url>
-    <loc>https://www.franzhenrymueller.de/de/categories/</loc>
+    <loc>http://localhost:1313/de/categories/growlyst/</loc>
+    <lastmod>2025-08-06T23:08:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.franzhenrymueller.de/categories/"
+                href="http://localhost:1313/categories/growlyst/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.franzhenrymueller.de/de/categories/"
+                href="http://localhost:1313/de/categories/growlyst/"
                 />
   </url><url>
-    <loc>https://www.franzhenrymueller.de/de/</loc>
+    <loc>http://localhost:1313/de/series/growlyst/</loc>
+    <lastmod>2025-08-06T23:08:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.franzhenrymueller.de/"
+                href="http://localhost:1313/series/growlyst/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.franzhenrymueller.de/de/"
+                href="http://localhost:1313/de/series/growlyst/"
                 />
   </url><url>
-    <loc>https://www.franzhenrymueller.de/de/posts/</loc>
+    <loc>http://localhost:1313/de/tags/growlyst/</loc>
+    <lastmod>2025-08-06T23:08:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.franzhenrymueller.de/posts/"
+                href="http://localhost:1313/tags/growlyst/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.franzhenrymueller.de/de/posts/"
+                href="http://localhost:1313/de/tags/growlyst/"
                 />
   </url><url>
-    <loc>https://www.franzhenrymueller.de/de/series/</loc>
+    <loc>http://localhost:1313/de/posts/growlyst-tech-stack/</loc>
+    <lastmod>2025-08-06T23:08:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.franzhenrymueller.de/series/"
+                href="http://localhost:1313/posts/growlyst-tech-stack/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.franzhenrymueller.de/de/series/"
+                href="http://localhost:1313/de/posts/growlyst-tech-stack/"
                 />
   </url><url>
-    <loc>https://www.franzhenrymueller.de/de/tags/</loc>
+    <loc>http://localhost:1313/de/posts/</loc>
+    <lastmod>2025-08-06T23:08:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.franzhenrymueller.de/tags/"
+                href="http://localhost:1313/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.franzhenrymueller.de/de/tags/"
+                href="http://localhost:1313/de/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/de/series/</loc>
+    <lastmod>2025-08-06T23:08:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/series/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/de/tags/software/</loc>
+    <lastmod>2025-08-06T23:08:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/tags/software/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/de/tags/</loc>
+    <lastmod>2025-08-06T23:08:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/de/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/about/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/de/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/contact/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/de/posts/growlyst/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/growlyst/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/posts/growlyst/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/de/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/projects/"
                 />
   </url>
 </urlset>

@@ -1,3 +1,0 @@
-# GrowLyst
-
-## What is GrowLyst?

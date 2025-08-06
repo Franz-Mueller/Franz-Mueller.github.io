@@ -195,18 +195,6 @@
                 href="http://localhost:1313/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/growlyst/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/posts/growlyst/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/growlyst/"
-                />
-  </url><url>
     <loc>http://localhost:1313/projects/</loc>
     <xhtml:link
                 rel="alternate"

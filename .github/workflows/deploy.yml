@@ -27,8 +27,7 @@ jobs:
       - name: Deploy to main branch
         uses: peaceiris/actions-gh-pages@v4
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./personal-site/public
           publish_branch: main
           force_orphan: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

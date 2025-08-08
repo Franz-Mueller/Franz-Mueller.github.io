@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Franz Müller</title>
-    <link>http://localhost:1313/de/tags/</link>
+    <link>https://franzhenrymueller.de/de/tags/</link>
     <description>Recent content in Tags on Franz Müller</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Wed, 06 Aug 2025 23:08:56 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://franzhenrymueller.de/de/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>http://localhost:1313/de/tags/development/</link>
+      <link>https://franzhenrymueller.de/de/tags/development/</link>
       <pubDate>Wed, 06 Aug 2025 23:08:56 +0200</pubDate>
-      <guid>http://localhost:1313/de/tags/development/</guid>
+      <guid>https://franzhenrymueller.de/de/tags/development/</guid>
       <description></description>
     </item>
     <item>
       <title>GrowLyst</title>
-      <link>http://localhost:1313/de/tags/growlyst/</link>
+      <link>https://franzhenrymueller.de/de/tags/growlyst/</link>
       <pubDate>Wed, 06 Aug 2025 23:08:56 +0200</pubDate>
-      <guid>http://localhost:1313/de/tags/growlyst/</guid>
+      <guid>https://franzhenrymueller.de/de/tags/growlyst/</guid>
       <description></description>
     </item>
     <item>
       <title>Software</title>
-      <link>http://localhost:1313/de/tags/software/</link>
+      <link>https://franzhenrymueller.de/de/tags/software/</link>
       <pubDate>Wed, 06 Aug 2025 23:08:56 +0200</pubDate>
-      <guid>http://localhost:1313/de/tags/software/</guid>
+      <guid>https://franzhenrymueller.de/de/tags/software/</guid>
       <description></description>
     </item>
   </channel>

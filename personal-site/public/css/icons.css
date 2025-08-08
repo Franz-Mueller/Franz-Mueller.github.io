@@ -1,0 +1,108 @@
+/* =========================================
+   Icon base (the <svg> itself has class="icon")
+   ========================================= */
+.icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    line-height: 1;
+    vertical-align: -0.125em;
+    /* tweak to taste */
+}
+
+/* =========================================
+   Make SVG paint with currentColor, regardless of inline fills
+   (preserve explicit "none")
+   ========================================= */
+
+/* Apply to the root <svg> and all descendants */
+.icon,
+.icon * {
+    fill: currentColor !important;
+    stroke: currentColor !important;
+}
+
+/* Keep explicit "none" intact (root and descendants) */
+.icon[fill="none"],
+.icon *[fill="none"] {
+    fill: none !important;
+}
+
+.icon[stroke="none"],
+.icon *[stroke="none"] {
+    stroke: none !important;
+}
+
+/* =========================================
+   Color switching (Coder uses classes on <body>)
+   ========================================= */
+
+/* Default = light */
+.icon-auto {
+    color: #000 !important;
+}
+
+/* When Coder toggles dark */
+body.colorscheme-dark .icon-auto {
+    color: #dadada !important;
+}
+
+body.colorscheme-light .icon-auto {
+    color: #000 !important;
+}
+
+/* Support alternative hooks some setups use */
+html.dark .icon-auto {
+    color: #dadada !important;
+}
+
+html.light .icon-auto {
+    color: #000 !important;
+}
+
+:root[data-theme="dark"] .icon-auto {
+    color: #dadada !important;
+}
+
+:root[data-theme="light"] .icon-auto {
+    color: #000 !important;
+}
+
+/* =========================================
+   Overrides
+   ========================================= */
+.icon-django {
+    color: #092E20 !important;
+}
+
+/* light */
+body.colorscheme-dark .icon-django,
+html.dark .icon-django,
+:root[data-theme="dark"] .icon-django {
+    color: #dadada !important;
+}
+
+/* dark */
+body.colorscheme-light .icon-django,
+html.light .icon-django,
+:root[data-theme="light"] .icon-django {
+    color: #092E20 !important;
+}
+
+.icon-postgresql {
+    color: #092E20 !important;
+}
+
+/* light */
+body.colorscheme-dark .icon-postgresql,
+html.dark .icon-djanpostgresqlgo,
+:root[data-theme="dark"] .icon-postgresql {
+    color: #dadada !important;
+}
+
+/* dark */
+body.colorscheme-light .icon-postgresql,
+html.light .icon-postgresql,
+:root[data-theme="light"] .icon-postgresql {
+    color: #4169E1 !important;
+}

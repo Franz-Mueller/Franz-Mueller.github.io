@@ -40,13 +40,13 @@ rtl = false
 # "auto" (use preference set by browser)
 # "dark" (dark background, light foreground)
 # "light" (light background, dark foreground) (default)
-colorScheme = "auto"
+colorScheme = "auto" # set to auto if oyu want the user to be able to choose
 # Hide the toggle button, along with the associated vertical divider
-hideColorSchemeToggle = false
+hideColorSchemeToggle = false # Set to false if you want to make the user make it choose again 
 # Series see also post count
 maxSeeAlsoItems = 5
 # Custom CSS
-customCSS = []
+customCSS = ["css/icons.css"]
 # Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
 customSCSS = []
 
@@ -66,7 +66,6 @@ customRemoteJS = []
 # domain = "example.com"
 # serverURL = "analytics.example.com" # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
 # outboundLinksTracking = true
-# fileDownloadsTracking = true
 
 # If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
 # [params.goatCounter]

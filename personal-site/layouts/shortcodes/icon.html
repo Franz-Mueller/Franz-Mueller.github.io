@@ -1,0 +1,31 @@
+{{- /* layouts/shortcodes/icon.html */ -}}
+{{- $name := .Get "name" | default "" -}}
+{{- if not $name -}}
+{{- errorf "icon shortcode: missing required param 'name'" -}}
+{{- end -}}
+
+{{- $classes := .Get "class" | default "" -}}
+{{- $size := .Get "size" | default "1em" -}}
+{{- $title := .Get "title" -}}
+{{- $aria := .Get "aria" | default $title | default $name -}}
+{{- $path := printf "icons/%s.svg" $name -}}
+
+{{- with resources.Get $path -}}
+{{- $svg := .Content -}}
+
+{{- /* remove hardcoded width/height so size is controlled by CSS/inline style */ -}}
+{{- $svg = replaceRE `\s(width|height)="[^"]*"` `` $svg -}}
+
+{{- $classAttr := printf `class="icon icon-auto %s"` $classes -}}
+{{- $styleAttr := printf `style="width:%s;height:%s"` $size $size -}}
+{{- $titleTag := cond (ne $title "") (printf `<title>%s</title>` $title) "" -}}
+{{- $open := printf `<svg$1 %s %s role="img" aria-label="%s" focusable="false">%s` $classAttr $styleAttr $aria $titleTag
+    -}}
+
+    {{- /* inject our attributes into the opening <svg> tag */ -}}
+        {{- $svg = replaceRE `<svg([^>]*)>` $open $svg -}}
+
+            {{- $svg | safeHTML -}}
+            {{- else -}}
+            {{- errorf "icon shortcode: %q not found at %s" $name $path -}}
+            {{- end -}}

@@ -20,7 +20,7 @@
       <link>https://franzhenrymueller.de/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://franzhenrymueller.de/about/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;&#xA;  About Me&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#about-me&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Hi, I’m Franz Müller. I’m based in Würzburg, Germany, and work at Yaveon, where I specialize in Microsoft Dynamics 365 Business Central. Within the company, I’m part of the team that develops our in-house apps and also help explore ways to integrate AI, both into our products and for internal use.&lt;/p&gt;&#xA;&lt;p&gt;Outside of work, I’m currently building GrowLyst, a personal project developed in Python with Django. You can learn more about it in the “Projects” section of this site.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>

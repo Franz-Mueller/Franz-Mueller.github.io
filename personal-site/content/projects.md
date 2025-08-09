@@ -1,6 +1,6 @@
 # Projects
 
-## GrowLyst (work in progress)
+## GrowLyst (work in progress) 
 
 GrowLyst is a platform that allows users to manage their plant grows. They can track everything from seed to storage and trying the produce.
 There also is an additional social media component that allows users to share their grow progress with others on the website. The goal is to

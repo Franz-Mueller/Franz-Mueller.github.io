@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GrowLyst on Franz Müller</title>
+    <link>https://franzhenrymueller.de/categories/growlyst/</link>
+    <description>Recent content in GrowLyst on Franz Müller</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 06 Aug 2025 23:08:56 +0200</lastBuildDate>
+    <atom:link href="https://franzhenrymueller.de/categories/growlyst/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GrowLyst Tech Stack</title>
+      <link>https://franzhenrymueller.de/posts/growlyst-tech-stack/</link>
+      <pubDate>Wed, 06 Aug 2025 23:08:56 +0200</pubDate>
+      <guid>https://franzhenrymueller.de/posts/growlyst-tech-stack/</guid>
+      <description>&lt;p&gt;GrowLyst is my project that helps plant growers manage their grows. It’s aimed at enthusiasts who want a better way to log their plants progress, track changes, and maybe learn from their own growing history.&lt;/p&gt;&#xA;&lt;p&gt;In this article, I’ll walk you through how I set up the server structure to run GrowLyst. Keep in mind, this is still pre-production and things might change as I go along.&#xA;It’s also my first real project so I’m expecting a few mistakes along the way.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,162 @@
+/* =========================================
+   Icon base (the <svg> itself has class="icon")
+   ========================================= */
+.icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    line-height: 1;
+    vertical-align: -0.125em;
+    /* tweak to taste */
+}
+
+/* =========================================
+   Make SVG paint with currentColor, regardless of inline fills
+   (preserve explicit "none")
+   ========================================= */
+
+/* Apply to the root <svg> and all descendants */
+.icon,
+.icon * {
+    fill: currentColor !important;
+    stroke: currentColor !important;
+}
+
+/* Keep explicit "none" intact (root and descendants) */
+.icon[fill="none"],
+.icon *[fill="none"] {
+    fill: none !important;
+}
+
+.icon[stroke="none"],
+.icon *[stroke="none"] {
+    stroke: none !important;
+}
+
+/* =========================================
+   Color switching (Coder uses classes on <body>)
+   ========================================= */
+
+/* Default = light */
+.icon-auto {
+    color: #000 !important;
+}
+
+/* When Coder toggles dark */
+body.colorscheme-dark .icon-auto {
+    color: #dadada !important;
+}
+
+body.colorscheme-light .icon-auto {
+    color: #000 !important;
+}
+
+/* Support alternative hooks some setups use */
+html.dark .icon-auto {
+    color: #dadada !important;
+}
+
+html.light .icon-auto {
+    color: #000 !important;
+}
+
+:root[data-theme="dark"] .icon-auto {
+    color: #dadada !important;
+}
+
+:root[data-theme="light"] .icon-auto {
+    color: #000 !important;
+}
+
+/* =========================================
+   Overrides
+   ========================================= */
+.icon-django {
+    color: #092E20 !important;
+}
+
+/* light */
+body.colorscheme-dark .icon-django,
+html.dark .icon-django,
+:root[data-theme="dark"] .icon-django {
+    color: #dadada !important;
+}
+
+/* dark */
+body.colorscheme-light .icon-django,
+html.light .icon-django,
+:root[data-theme="light"] .icon-django {
+    color: #092E20 !important;
+}
+
+.icon-postgresql {
+    color: #4169E1 !important;
+}
+
+/* light */
+body.colorscheme-dark .icon-postgresql,
+html.dark .icon-postgresql,
+:root[data-theme="dark"] .icon-postgresql {
+    color: #4169E1 !important;
+}
+
+/* dark */
+body.colorscheme-light .icon-postgresql,
+html.light .icon-postgresql,
+:root[data-theme="light"] .icon-postgresql {
+    color: #4169E1 !important;
+}
+
+.icon-celery {
+    color: #37814A !important;
+}
+
+/* light */
+body.colorscheme-dark .icon-celery,
+html.dark .icon-celery,
+:root[data-theme="dark"] .icon-celery {
+    color: #37814A !important;
+}
+
+/* dark */
+body.colorscheme-light .icon-celery,
+html.light .icon-celery,
+:root[data-theme="light"] .icon-celery {
+    color: #37814A !important;
+}
+
+.icon-flutter {
+    color: #02569B !important;
+}
+
+/* light */
+body.colorscheme-dark .icon-flutter,
+html.dark .icon-flutter,
+:root[data-theme="dark"] .icon-flutter {
+    color: #02569B !important;
+}
+
+/* dark */
+body.colorscheme-light .icon-flutter,
+html.light .icon-flutter,
+:root[data-theme="light"] .icon-flutter {
+    color: #02569B !important;
+}
+
+.icon-hugo {
+    color: #FF4088 !important;
+}
+
+/* light */
+body.colorscheme-dark .icon-hugo,
+html.dark .icon-hugo,
+:root[data-theme="dark"] .icon-hugo {
+    color: #FF4088 !important;
+}
+
+/* dark */
+body.colorscheme-light .icon-hugo,
+html.light .icon-hugo,
+:root[data-theme="light"] .icon-hugo {
+    color: #FF4088 !important;
+}

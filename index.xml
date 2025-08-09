@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Franz Müller</title><link>https://franzhenrymueller.de/</link><description>Recent content on Franz Müller</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 06 Aug 2025 23:08:56 +0200</lastBuildDate><atom:link href="https://franzhenrymueller.de/index.xml" rel="self" type="application/rss+xml"/><item><title>GrowLyst Tech Stack</title><link>https://franzhenrymueller.de/posts/growlyst-tech-stack/</link><pubDate>Wed, 06 Aug 2025 23:08:56 +0200</pubDate><guid>https://franzhenrymueller.de/posts/growlyst-tech-stack/</guid><description>&lt;p>GrowLyst is my project that helps plant growers manage their grows. It’s aimed at enthusiasts who want a better way to log their plants progress, track changes, and maybe learn from their own growing history.&lt;/p>
+&lt;p>In this article, I’ll walk you through how I set up the server structure to run GrowLyst. Keep in mind, this is still pre-production and things might change as I go along.
+It’s also my first real project so I’m expecting a few mistakes along the way.&lt;/p></description></item><item><title/><link>https://franzhenrymueller.de/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://franzhenrymueller.de/about/</guid><description>&lt;h1 id="about-me">
+ About Me
+ &lt;a class="heading-link" href="#about-me">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h1>
+&lt;p>Hi, I’m Franz Müller. I’m based in Würzburg, Germany, and work at Yaveon, where I specialize in Microsoft Dynamics 365 Business Central. Within the company, I’m part of the team that develops our in-house apps and also help explore ways to integrate AI, both into our products and for internal use.&lt;/p>
+&lt;p>Outside of work, I’m currently building GrowLyst, a personal project developed in Python with Django. You can learn more about it in the “Projects” section of this site.&lt;/p></description></item><item><title/><link>https://franzhenrymueller.de/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://franzhenrymueller.de/contact/</guid><description>&lt;h1 id="contact">
+ Contact
+ &lt;a class="heading-link" href="#contact">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h1>
+&lt;p>Feel free to reach out to me via &lt;a href="mailto:franzmueller2003@outlook.de" >Mail&lt;/a> or &lt;a href="https://linkedin.com/in/franz-m%c3%bcller-084738240" class="external-link" target="_blank" rel="noopener">Linkedin&lt;/a>.&lt;/p></description></item><item><title/><link>https://franzhenrymueller.de/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://franzhenrymueller.de/projects/</guid><description>&lt;h1 id="projects">
+ Projects
+ &lt;a class="heading-link" href="#projects">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h1>
+&lt;h2 id="growlyst-work-in-progress">
+ GrowLyst (work in progress)
+ &lt;a class="heading-link" href="#growlyst-work-in-progress">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>GrowLyst is a platform that allows users to manage their plant grows. They can track everything from seed to storage and trying the produce.
+There also is an additional social media component that allows users to share their grow progress with others on the website. The goal is to
+address enthusiasts who like to show their results and display them in style. The premium tier allows users to gain deep insights into their
+grows via statistics, graphs and formulas that make recommendations and allow comparrision between different plants, even from other users.
+A mobile app is planned as well but the Webapp has higher priority.
+Please refer to my &lt;a href="https://franzhenrymueller.de/series/growlyst/" >blog posts&lt;/a> for further information about techniques I used and my experiences with GrowLyst.&lt;/p></description></item></channel></rss>

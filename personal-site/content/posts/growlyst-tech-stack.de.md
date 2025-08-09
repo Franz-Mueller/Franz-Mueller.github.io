@@ -5,8 +5,8 @@ title = "GrowLyst Tech Stack"
 description = "The tech stack my webapp GrowLyst is running on."
 slug = ""
 authors = ["Franz Müller"]
-tags = ["GrowLyst", "Software", "Development"]
-categories = ["GrowLyst"]
+tags = ["GrowLyst", "Software", "Development", "Hosting"]
+categories = ["Projects"]
 externalLink = ""
 series = ["GrowLyst"]
 +++

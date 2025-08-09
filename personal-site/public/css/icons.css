@@ -90,14 +90,14 @@ html.light .icon-django,
 }
 
 .icon-postgresql {
-    color: #092E20 !important;
+    color: #4169E1 !important;
 }
 
 /* light */
 body.colorscheme-dark .icon-postgresql,
-html.dark .icon-djanpostgresqlgo,
+html.dark .icon-postgresql,
 :root[data-theme="dark"] .icon-postgresql {
-    color: #dadada !important;
+    color: #4169E1 !important;
 }
 
 /* dark */
@@ -105,4 +105,58 @@ body.colorscheme-light .icon-postgresql,
 html.light .icon-postgresql,
 :root[data-theme="light"] .icon-postgresql {
     color: #4169E1 !important;
+}
+
+.icon-celery {
+    color: #37814A !important;
+}
+
+/* light */
+body.colorscheme-dark .icon-celery,
+html.dark .icon-celery,
+:root[data-theme="dark"] .icon-celery {
+    color: #37814A !important;
+}
+
+/* dark */
+body.colorscheme-light .icon-celery,
+html.light .icon-celery,
+:root[data-theme="light"] .icon-celery {
+    color: #37814A !important;
+}
+
+.icon-flutter {
+    color: #02569B !important;
+}
+
+/* light */
+body.colorscheme-dark .icon-flutter,
+html.dark .icon-flutter,
+:root[data-theme="dark"] .icon-flutter {
+    color: #02569B !important;
+}
+
+/* dark */
+body.colorscheme-light .icon-flutter,
+html.light .icon-flutter,
+:root[data-theme="light"] .icon-flutter {
+    color: #02569B !important;
+}
+
+.icon-hugo {
+    color: #FF4088 !important;
+}
+
+/* light */
+body.colorscheme-dark .icon-hugo,
+html.dark .icon-hugo,
+:root[data-theme="dark"] .icon-hugo {
+    color: #FF4088 !important;
+}
+
+/* dark */
+body.colorscheme-light .icon-hugo,
+html.light .icon-hugo,
+:root[data-theme="light"] .icon-hugo {
+    color: #FF4088 !important;
 }

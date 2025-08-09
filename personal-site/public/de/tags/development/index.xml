@@ -13,7 +13,7 @@
       <link>https://franzhenrymueller.de/de/posts/growlyst-tech-stack/</link>
       <pubDate>Wed, 06 Aug 2025 23:08:56 +0200</pubDate>
       <guid>https://franzhenrymueller.de/de/posts/growlyst-tech-stack/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;GrowLyst&lt;/strong&gt; ist mein Projekt, das Pflanzenzüchtern hilft, ihre Anbauten zu verwalten. Es richtet sich an Enthusiasten, die eine bessere Möglichkeit suchen, den Fortschritt ihrer Pflanzen zu protokollieren, Veränderungen zu verfolgen und vielleicht sogar aus ihrer eigenen Anbaugeschichte zu lernen.&lt;/p&gt;&#xA;&lt;p&gt;In diesem Artikel zeige ich dir, wie ich die Serverstruktur für GrowLyst aufgebaut habe. Denk daran: Das Ganze ist noch in der Vorproduktion und kann sich im Laufe der Zeit ändern.&lt;br&gt;&#xA;Es ist außerdem mein erstes richtiges Projekt – ich rechne also mit ein paar Fehlern auf dem Weg.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
